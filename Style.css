@@ -1,0 +1,44 @@
+body {
+  padding: 0 30px;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: "Arial", sans-serif;
+  color: #222222;
+
+  background: #ffffff url("img/bg-page.png") no-repeat top center;
+}
+
+h1 {
+  font-size: 24px;
+  line-height: normal;
+}
+
+.page-title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  font-family: "Verdana", sans-serif;
+  text-align: center;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+.skills dd {
+  margin: 0;
+  margin-bottom: 10px;
+
+  background-color: #e8e8e8;
+}
+
+.skills-level {
+  font-size: 12px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #4470c4;
+}
+
+.skills-level-ok {
+  background-color: #47bb52;
+}
